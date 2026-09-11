@@ -80,6 +80,5 @@ pip install numpy pandas matplotlib scikit-learn
 
 Este proyecto fue creado con fines educativos, para entender a fondo el funcionamiento interno de una SVM (optimización del hinge loss, regularización, gradientes) antes de usar implementaciones ya optimizadas como la de `scikit-learn`.
 
-## 📝 Licencia
 
-Este proyecto es de uso libre para fines educativos.
+
